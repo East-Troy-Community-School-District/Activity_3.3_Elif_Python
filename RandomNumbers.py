@@ -1,7 +1,8 @@
 '''
 Random Numbers
-1/5/2023
-Python I
+Pawelski
+10/8/2023
+Introduction to Computer Science
 
 Instructions:
 Run the program several times to see how it
